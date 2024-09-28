@@ -105,3 +105,11 @@ Feature Engineering: Additional features like transaction patterns or behavioral
 
 Hyperparameter Tuning: Optimizing the parameters of the models (e.g., max depth of the decision tree, number of estimators in Random Forest) can further enhance accuracy and fraud detection rates.
 vbnet
+
+## Dataset 
+
+One can view the dataset through my Gmail 
+
+https://drive.google.com/file/d/1oyo7mui9w2NaiJ6ld4qLpLiObFhFehKU/view?usp=sharing
+
+https://drive.google.com/file/d/1CYebfl1JW6Zstuo_WUKjalbRLF1eT06k/view?usp=sharing
